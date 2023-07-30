@@ -25,7 +25,7 @@
 
 - :telescope: I’m currently working as a Deep Learning and Computer Vision Engineer at Sorbonne Université, with Dr.Thierry Dufour and Dr.Olivier Schwander to build AI pipelines for synchrotron-based tumor fibers' analysis.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring new coding horizons.
 
 - :zap: In my free time, I scrap the Internet, solve LeetCode problems and read political philosophy.
 
