@@ -31,7 +31,7 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emile-aydar/)
 
-  ### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -54,3 +54,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXMagIkZzR4mBOXx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://skyline.github.com/xXMagIkZzR4mBOXx/2023">
+  <img src="https://skyline.github.com/xXMagIkZzR4mBOXx/2023" width="500" align="center"/>
+</a>
+
