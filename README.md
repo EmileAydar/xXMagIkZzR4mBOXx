@@ -14,9 +14,9 @@
   <a href="https://leetcode.com/xXMagIkZzR4mBOXx/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=xXMagIkZzR4mBOXx&style=flat-square&color=blue" alt=""/>
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=xXMagIkZzR4mBOXx&style=flat-square&color=blue" alt=""/>
 
 <div id="header" align="center>
   Hey there
