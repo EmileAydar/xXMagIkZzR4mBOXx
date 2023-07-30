@@ -55,10 +55,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXMagIkZzR4mBOXx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <a href="https://skyline.github.com/xXMagIkZzR4mBOXx/2023">
-    <img src="https://skyline.github.com/xXMagIkZzR4mBOXx/2023" width="500" />
-  </a>
-</div>
+![GitHub Skyline](https://skyline.github.com/xXMagIkZzR4mBOXx/2023)
+
 
 
