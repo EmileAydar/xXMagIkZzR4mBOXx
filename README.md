@@ -23,4 +23,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I am a Computer Science student and Deep Learning Programmer with a Software Engineering background <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
+- :telescope: I’m currently working as a Deep Learning and Computer Vision Engineer at Sorbonne Université, with Dr.Thierry Dufour and Dr.Olivier Schwander to build AI pipelines for synchrotron-based tumor fibers' analysis.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I scrap the Internet, solve LeetCode problems and read political philosophy.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emile-aydar/)
