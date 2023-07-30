@@ -29,4 +29,4 @@
 
 - :zap: In my free time, I scrap the Internet, solve LeetCode problems and read political philosophy.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Emile-Aydar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emile-aydar/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emile-aydar/)
