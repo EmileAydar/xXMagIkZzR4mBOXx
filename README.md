@@ -75,9 +75,8 @@
 
 
 
-<div align="center>
-    ### 🤯 My Best Repos (so far 🤞)
-</div>
+                                                                        ### 🤯 My Best Repos (so far 🤞)
+
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=xXMagIkZzR4mBOXx&repo=Deep-Learning-Tumor-Fibers-Segmentation" alt="Readme Card for Deep-Learning-Tumor-Fibers-Segmentation">
