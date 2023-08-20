@@ -3,9 +3,12 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="dynamic-title" align="center" style="font-size: 2em; color: #ff6347; font-weight: bold; margin: 20px 0;">
-  ⭐ This is Emile Aydar! ⭐
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ayoubkassi/ayoubkassi" alt="ayoubkassi">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Emile+Aydar;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+  </a>
+</h1>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/emile-aydar/">
