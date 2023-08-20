@@ -83,7 +83,7 @@
 </p>
 
 
-### <p align="center">🤯 My Best Repos (so far 🤞)</p>
+### <h4 align="center">🤯 My Best Repos (so far 🤞)</h4>
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
