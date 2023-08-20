@@ -23,18 +23,24 @@
 
 <h1>
   Hey there
-  <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- :telescope: I’m currently working as a Deep Learning and Computer Vision Engineer at Sorbonne Université, with Dr.Thierry Dufour and Dr.Olivier Schwander to build AI pipelines for synchrotron-based tumor fibers' analysis.
+###  <p align="center">About Me</p>
+<p align="center">
+    <p align="center">Hi, I'm Ayoub Kassi, Software Engineer </p>
 
-- :seedling: Exploring new coding horizons.
+  <p align="center">:telescope: I’m currently working as a Deep Learning and Computer Vision Engineer at Sorbonne Université, with Dr.Thierry Dufour and Dr.Olivier Schwander to build AI pipelines for synchrotron-based tumor fibers' analysis.</p>
 
-- :zap: In my free time, I scrap the Internet, solve LeetCode problems and read political philosophy.
+  <p align="center">:seedling: Exploring new coding horizons</p>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emile-aydar/)
+  <p align="center">:zap: In my free time, I scrap the Internet, solve LeetCode problems and read political philosophy..</p>
 
-### :hammer_and_wrench: Languages, Frameworks & Tools :
+  <p align="center">📫 How to reach me 👇</p>
+</p>
+<p align="center">📫 <a href="https://www.linkedin.com/in/emile-aydar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=20>
+
+###  <p align="center">:hammer_and_wrench: Languages, Frameworks & Tools </p>
   <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -59,7 +65,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   
 
-### :fire: My Stats :
+### <p align="center">:fire: My Stats</p>
 <p align="center">
     <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=xXMagIkZzR4mBOXx&theme=radical&background=000000" alt="GitHub Streak">
@@ -77,7 +83,7 @@
 </p>
 
 
-### 🤯 My Best Repos (so far 🤞)
+### <p align="center">🤯 My Best Repos (so far 🤞)</p>
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
