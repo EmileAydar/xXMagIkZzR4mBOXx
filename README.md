@@ -86,10 +86,10 @@
 ### <h4 align="center">🤯 My Best Repos (so far 🤞)</h4>
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/xXMagIkZzR4mBOXx/Deep-Learning-Tumor-Fibers-Segmentation">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=xXMagIkZzR4mBOXx&repo=Deep-Learning-Tumor-Fibers-Segmentation" alt="Readme Card for Deep-Learning-Tumor-Fibers-Segmentation">
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/xXMagIkZzR4mBOXx/Orowan-project">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=xXMagIkZzR4mBOXx&repo=Orowan-project" alt="Readme Card for Orowan-project">
     </a>
 </p>
