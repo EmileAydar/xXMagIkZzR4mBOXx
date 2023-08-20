@@ -61,6 +61,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xXMagIkZzR4mBOXx)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXMagIkZzR4mBOXx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=xXMagIkZzR4mBOXx&repo=Tumor-Fibers-Segmentation)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=xXMagIkZzR4mBOXx&repo=Deep-Learning-Tumor-Fibers-Segmentation)](https://github.com/anuraghazra/github-readme-stats)
 
 
