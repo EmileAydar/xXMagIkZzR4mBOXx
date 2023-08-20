@@ -24,7 +24,7 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-###  <p align="center">About Me</p>
+<p align="center">About Me</p>
 <p align="center">
     <p align="center">Hey ! 🇫🇷 I'm Emile 🇹🇷, Deep Learning and Computer Vision Engineer </p>
     <p align="center">🌠Scraping the Internet since 2019 🌠</p>
@@ -39,8 +39,9 @@
   <p align="center">📫 How to reach me 👇</p>
 </p>
 <p align="center">📫 <a href="https://www.linkedin.com/in/emile-aydar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=20>
+<hr>
 
-###  <p align="center">:hammer_and_wrench: Languages, Frameworks & Tools </p>
+###  <h2 align="center">:hammer_and_wrench: Languages, Frameworks & Tools </h2>
   <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -64,7 +65,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
 
-### <p align="center">:fire: My Stats</p>
+### <h3 align="center">:fire: My Stats</h3>
 <p align="center">
     <a href="https://git.io/streak-stats">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=xXMagIkZzR4mBOXx&theme=radical&background=000000" alt="GitHub Streak">
