@@ -60,7 +60,12 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=xXMagIkZzR4mBOXx&theme=radical&background=000000)](https://git.io/streak-stats)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xXMagIkZzR4mBOXx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXMagIkZzR4mBOXx&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXMagIkZzR4mBOXx&layout=compact&theme=cobalt" alt="Top Langs">
+    </a>
+</p>
+
 
 
 
