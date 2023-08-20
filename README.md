@@ -3,7 +3,6 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ayoubkassi/ayoubkassi" alt="ayoubkassi">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Emile+Aydar;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
@@ -19,7 +18,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=xXMagIkZzR4mBOXx&style=flat-square&color=blue" alt=""/>
+<img align="center" src="https://komarev.com/ghpvc/?username=xXMagIkZzR4mBOXx&style=flat-square&color=blue" alt=""/>
 
 <h1>
   Hey there
