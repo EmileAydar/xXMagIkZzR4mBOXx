@@ -74,8 +74,7 @@
 </p>
 
 
-
-                                                                        ### 🤯 My Best Repos (so far 🤞)
+                                                              ### 🤯 My Best Repos (so far 🤞)
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
