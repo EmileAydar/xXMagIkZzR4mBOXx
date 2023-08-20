@@ -76,6 +76,13 @@
 
 
 ### 🤯: My Best Repos (so far 🤞)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=xXMagIkZzR4mBOXx&repo=Deep-Learning-Tumor-Fibers-Segmentation)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=xXMagIkZzR4mBOXx&repo=Orowan-project)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=xXMagIkZzR4mBOXx&repo=Deep-Learning-Tumor-Fibers-Segmentation" alt="Readme Card for Deep-Learning-Tumor-Fibers-Segmentation">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=xXMagIkZzR4mBOXx&repo=Orowan-project" alt="Readme Card for Orowan-project">
+    </a>
+</p>
+
 
