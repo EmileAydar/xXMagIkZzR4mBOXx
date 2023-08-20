@@ -18,13 +18,12 @@
   </a>
 </div>
 
-<img align="middle" src="https://komarev.com/ghpvc/?username=xXMagIkZzR4mBOXx&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=xXMagIkZzR4mBOXx&style=flat-square&color=blue" alt=""/>
 
 <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
 ###  <p align="center">About Me</p>
 <p align="center">
     <p align="center">Hey ! 🇫🇷 I'm Emile 🇹🇷, Deep Learning and Computer Vision Engineer </p>
@@ -41,7 +40,8 @@
 </p>
 <p align="center">📫 <a href="https://www.linkedin.com/in/emile-aydar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=20>
 
-###  <p align="center">:hammer_and_wrench: Languages, Frameworks & Tools </p>
+<h1>
+  ###  <p align="center">:hammer_and_wrench: Languages, Frameworks & Tools </p>
   <div>
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -64,7 +64,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  
+</h1>
 
 ### <p align="center">:fire: My Stats</p>
 <p align="center">
