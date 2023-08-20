@@ -28,7 +28,9 @@
 
 ###  <p align="center">About Me</p>
 <p align="center">
-    <p align="center">Hi, I'm Ayoub Kassi, Software Engineer </p>
+    <p align="center">Hey ! 🇫🇷 I'm Emile 🇹🇷, Deep Learning and Computer Vision Engineer </p>
+    <p align="center">🌠Scraping the Internet since 2019 🌠</p>
+    <p align="center">🔔Stay Tuned for new upcoming content🔔</p>
 
   <p align="center">:telescope: I’m currently working as a Deep Learning and Computer Vision Engineer at Sorbonne Université, with Dr.Thierry Dufour and Dr.Olivier Schwander to build AI pipelines for synchrotron-based tumor fibers' analysis.</p>
 
