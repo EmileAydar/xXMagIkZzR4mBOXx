@@ -21,7 +21,7 @@
 <img src="https://komarev.com/ghpvc/?username=xXMagIkZzR4mBOXx&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  <p 🍻 align="center">About Me 🍻</p>
+  <p align="center">🍻About Me 🍻</p>
 </h1>
 <p align="center">
     <p align="center">Hey ! 🇫🇷 I'm Emile 🇹🇷, Deep Learning and Computer Vision Engineer </p>
