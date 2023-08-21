@@ -36,7 +36,7 @@
 
   <p align="center">📫 How to reach me 👇</p>
 </p>
-<p align="center">📫 <a href="https://www.linkedin.com/in/emile-aydar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=20>
+<p align="center"> <a href="https://www.linkedin.com/in/emile-aydar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=20>
 <hr>
 
 ###  <h2 align="center">:hammer_and_wrench: Languages, Frameworks & Tools </h2>
