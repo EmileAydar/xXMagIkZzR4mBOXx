@@ -35,7 +35,7 @@
   <p align="center">:zap: In my free time, I scrap the Internet, solve LeetCode problems and read political philosophy..</p>
 
   <p align="center"> 👇 How to reach me 👇</p>
-  or by email : emile.aydar@ucdconnect.ie//emile.aydar@lpp.polytechnique.fr//emile.aydar@outlook.fr or
+ <p align="center">📫emile.aydar@ucdconnect.ie//emile.aydar@lpp.polytechnique.fr//emile.aydar@outlook.fr📫</p>
 </p>
 <p align="center">📫<a href="https://www.linkedin.com/in/emile-aydar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=20>
 <hr> 
