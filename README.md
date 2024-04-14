@@ -28,7 +28,8 @@
     <p align="center">🌠Scraping the Internet since 2019 🌠</p>
     <p align="center">🔔Stay Tuned for new upcoming content🔔</p>
 
-  <p align="center">:telescope: I’m currently working as a Deep Learning and Computer Vision Engineer at Sorbonne Université, with Dr.Thierry Dufour and Dr.Olivier Schwander to build AI pipelines for synchrotron-based tumor fibers' analysis.</p>
+  <p align="center">:telescope: I worked as a Deep Learning and Computer Vision Engineer at Sorbonne Université, with Dr.Thierry Dufour and Dr.Olivier Schwander to build AI pipelines for synchrotron-based tumor fibers' analysis.</p>
+  <p align="center"> Currently in University College Dublin for completing my dual master degree in Electronic and Computer Engineering.</p>
 
   <p align="center">:seedling: Exploring new coding horizons</p>
 
