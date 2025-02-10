@@ -18,12 +18,10 @@
 <img src="https://komarev.com/ghpvc/?username=EmileAydar&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  <p align="center">🍻About Me 🍻</p>
+  <p align="center">About Me </p>
 </h1>
 <p align="center">
-    <p align="center">Hey ! 🇫🇷 I'm Emile 🇹🇷, Deep Learning and Computer Vision Engineer </p>
     <p align="center">🌠Scraping the Internet since 2019 🌠</p>
-    <p align="center">🔔Stay Tuned for new upcoming content🔔</p>
 
   <p align="center">:telescope: I worked as a Deep Learning and Computer Vision Engineer at Sorbonne Université, with Dr.Thierry Dufour and Dr.Olivier Schwander to build AI pipelines for synchrotron-based tumor fibers' analysis.</p>
   <p align="center"> Currently in University College Dublin for completing my dual master degree in Electronic and Computer Engineering.</p>
@@ -78,7 +76,7 @@
 </p>
 
 
-### <h4 align="center">🤯 My Best Repos (so far 🤞)</h4>
+### <h4 align="center"> Pinned Repos (so far)</h4>
 
 <p align="center">
     <a href="https://github.com/EmileAydar/Deep-Learning-Tumor-Fibers-Segmentation">
