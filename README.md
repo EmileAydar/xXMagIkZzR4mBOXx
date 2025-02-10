@@ -68,12 +68,12 @@
         <img src="http://github-readme-streak-stats.herokuapp.com?user=EmileAydar&theme=radical&background=000000" alt="GitHub Streak">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=xXMagIkZzR4mBOXx&show_icons=true&theme=radical" alt="My GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=EmileAydar&show_icons=true&theme=radical" alt="My GitHub stats">
     </a>
 </p>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXMagIkZzR4mBOXx&layout=compact&theme=highcontrast" alt="Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmileAydar&layout=compact&theme=highcontrast" alt="Top Langs">
     </a>
 </p>
 
