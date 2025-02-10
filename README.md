@@ -13,12 +13,9 @@
   <a href="https://www.linkedin.com/in/emile-aydar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/xXMagIkZzR4mBOXx/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=xXMagIkZzR4mBOXx&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=EmileAydar&style=flat-square&color=blue" alt=""/>
 
 <h1>
   <p align="center">🍻About Me 🍻</p>
@@ -68,7 +65,7 @@
 ### <h3 align="center">:fire: My Stats</h3>
 <p align="center">
     <a href="https://git.io/streak-stats">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=xXMagIkZzR4mBOXx&theme=radical&background=000000" alt="GitHub Streak">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=EmileAydar&theme=radical&background=000000" alt="GitHub Streak">
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=xXMagIkZzR4mBOXx&show_icons=true&theme=radical" alt="My GitHub stats">
@@ -84,11 +81,11 @@
 ### <h4 align="center">🤯 My Best Repos (so far 🤞)</h4>
 
 <p align="center">
-    <a href="https://github.com/xXMagIkZzR4mBOXx/Deep-Learning-Tumor-Fibers-Segmentation">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=xXMagIkZzR4mBOXx&repo=Deep-Learning-Tumor-Fibers-Segmentation" alt="Readme Card for Deep-Learning-Tumor-Fibers-Segmentation">
+    <a href="https://github.com/EmileAydar/Deep-Learning-Tumor-Fibers-Segmentation">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=EmileAydar&repo=Deep-Learning-Tumor-Fibers-Segmentation" alt="Readme Card for Deep-Learning-Tumor-Fibers-Segmentation">
     </a>
-    <a href="https://github.com/xXMagIkZzR4mBOXx/Orowan-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=xXMagIkZzR4mBOXx&repo=Orowan-project" alt="Readme Card for Orowan-project">
+    <a href="https://github.com/EmileAydar/Orowan-project">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=EmileAydar&repo=Orowan-project" alt="Readme Card for Orowan-project">
     </a>
 </p>
 
